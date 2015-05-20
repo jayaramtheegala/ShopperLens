@@ -1,3 +1,6 @@
 [submodule "ShopperLensServer"]
 	path = ShopperLensServer
 	url = https://github.com/jayaramtheegala/ShopperLensServer
+[submodule "ShopperLensApp"]
+	path = ShopperLensApp
+	url = https://github.com/jayaramtheegala/ShopperLensApp
